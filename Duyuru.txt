@@ -1,0 +1,25 @@
+Updates:
+
+October 02, 2019
+- Some fixes Twitch after update (version DLL 1.1.4.0)
+
+August 30, 2019
+- Partially restored work with YouTube
+
+August 25, 2019
+
+- Fixed viewbot for WASD.TV
+- Fixed SOCKS4 RProxy
+
+July 11, 2019
+
+- Added viewbot for WASD.TV
+
+June 04, 2019
+
+- Updated chat-bots Twitch
+
+April 31, 2019
+
+- Fixed YouTube viewerbots. Change user-agents
+- Fixed errors
