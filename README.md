@@ -18,5 +18,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TulgaLisitsa" alt="TulgaLisitsa" /> </p>
 
 <p align="center" > 
-  <img src="https://profile-counter.glitch.me/mustafadalga/count.svg"/>
+  <img src="https://profile-counter.glitch.me/TulgaLisitsa/count.svg"/>
 </p>
