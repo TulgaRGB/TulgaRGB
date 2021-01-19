@@ -13,5 +13,7 @@
 ![](https://img.shields.io/badge/Code-SourcePawn-informational?style=for-the-badge&logo=Source-Engine&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tool-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tool-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tool-PHP-informational?style=for-the-badge&logo=PHP&logoColor=white&color=red)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TulgaLisitsa" alt="TulgaLisitsa" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TulgaLisitsa&show_icons=true" alt="TulgaLisitsa" /> </p>
