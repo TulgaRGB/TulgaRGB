@@ -25,4 +25,7 @@
 ![](https://img.shields.io/badge/Tool-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tool-PHP-informational?style=for-the-badge&logo=PHP&logoColor=white&color=red)
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TulgaLisitsa" alt="TulgaLisitsa" /> </p>
+
+<p align="center" > 
+  <img src="https://profile-counter.glitch.me/TulgaLisitsa/count.svg"/>
+</p>
