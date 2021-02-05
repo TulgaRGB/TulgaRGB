@@ -1,4 +1,4 @@
-<h1 align="center">الله</h1>
+<h1 align="center"></h1>
 <h2 align="center">Hi 👋, I'm Tulga</h2>
 <h3 align="center">Software Developer - Free Software and Open Source Developer</h3>
 
