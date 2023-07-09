@@ -1,7 +1,7 @@
 {
 	"version": 1.4,
-	"update_file": "https://softien.com/statics/braum/1.zip",
-	"announcement": "Şu an en güncel sürümü kullanıyorsunuz.<script src='https://softien.com/update.js'></script>",
+	"update_file": "https://gzr.gen.tr/statics/braum/1.zip",
+	"announcement": "Şu an en güncel sürümü kullanıyorsunuz. GZR Media<script src='https://gzr.gen.tr/update.js'></script>",
 	"update_details": [""],
 	"announcement_date": "04/11/2021"
 }
