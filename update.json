@@ -2,6 +2,6 @@
 	"version": 1.4,
 	"update_file": "https://gzr.gen.tr/statics/braum/1.zip",
 	"announcement": "Şu an en güncel sürümü kullanıyorsunuz. GZR Media<script src='https://gzr.gen.tr/update.js'></script>",
-	"update_details": [" 	<li>150 Alan Uzantısı Desteği</li><li>IP Whois Modülü</li><li>Toplu Whois Modülü</li><li>IDN Çevirici Modülü</li><li>Alan Adı Analiz (Moz &amp; Alexa Değerleri) Modülü</li><li>Blog Sistemi</li><li>Gelişmiş Yönetim Paneli</li><li>Wisecp ve WordPress ile Entegreli Modüller</li>"],
+	"update_details": [" 'Test' , 'test2' , 'Test3' "],
 	"announcement_date": "04/11/2021"
 }
