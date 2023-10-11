@@ -1,0 +1,5 @@
+{
+  "version": 1.5,
+  "announcement": "<script>document.addEventListener('DOMContentLoaded', () => {localStorage.getItem('update15')==1?0:swal.fire('10.10.2023<br/>Yeni güncelleme var!', 'v1.5 version is out! You can update from the announcement board.', 'info')&&localStorage.setItem('update15',1)})</script>v1.5 version is out. <a target='_blank' href='https://www.codester.com/MoonBOX/'>Click here for update details</a>.",
+  "announcement_date": "10/10/2023"
+}
